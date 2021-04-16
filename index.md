@@ -5,4 +5,4 @@
  * @FilePath: \blog\readme.md
 -->
 
-- [00-How-to-install-mods-in-mcje.md](.\00-How-to-install-mods-in-mcje.md)
+- [00-How-to-install-mods-in-mcje](.\00-How-to-install-mods-in-mcje)
